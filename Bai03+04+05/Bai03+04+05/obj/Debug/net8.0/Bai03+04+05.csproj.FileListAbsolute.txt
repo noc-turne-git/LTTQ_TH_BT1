@@ -1,0 +1,14 @@
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\obj\Debug\net8.0\Bai03+04+05.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\obj\Debug\net8.0\Bai03+04+05.AssemblyInfoInputs.cache
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\obj\Debug\net8.0\Bai03+04+05.AssemblyInfo.cs
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\obj\Debug\net8.0\Bai03+04+05.csproj.CoreCompileInputs.cache
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\bin\Debug\net8.0\Bai03+04+05.exe
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\bin\Debug\net8.0\Bai03+04+05.deps.json
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\bin\Debug\net8.0\Bai03+04+05.runtimeconfig.json
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\bin\Debug\net8.0\Bai03+04+05.dll
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\bin\Debug\net8.0\Bai03+04+05.pdb
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\obj\Debug\net8.0\Bai03+04+05.dll
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\obj\Debug\net8.0\refint\Bai03+04+05.dll
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\obj\Debug\net8.0\Bai03+04+05.pdb
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\obj\Debug\net8.0\Bai03+04+05.genruntimeconfig.cache
+D:\LTTQ\Thực Hành\BTH1_LuuBichNgan_24521128\Bai03+04+05\Bai03+04+05\obj\Debug\net8.0\ref\Bai03+04+05.dll
