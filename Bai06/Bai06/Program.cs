@@ -48,8 +48,6 @@ namespace Bai01
                 }
                 m.Add(temp);
             }
-            m[1][2] = SoLonNhat();
-            m[2][2] = SoLonNhat();
         }
 
         public void Xuat(string GhiChu)

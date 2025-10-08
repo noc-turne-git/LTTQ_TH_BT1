@@ -25,28 +25,6 @@ namespace Bai01
             }
         }
 
-        /*public void Nhap()
-        {
-            Console.Write("Nhap so phan tu cho mang: ");
-            int n = int.Parse(Console.ReadLine());
-
-            Random rd = new Random();
-            for (int i = 0; i < n; i++)
-            {
-                int x = rd.Next(100);
-                a.Add(x);
-            }
-        }*/
-
-        /*public void Xuat()
-        {
-            Console.WriteLine("Mang gom cac phan tu: ");
-            for (int i = 0; i < a.Count; i++)
-            {
-                Console.WriteLine($"Phan tu thu {i+1}: {a[i]} ");
-            }
-        }*/
-
         public int TongCacSoLe()
         {
             int Tong = 0;
